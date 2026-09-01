@@ -1,0 +1,11 @@
+2026-08-05T03:34:11.409Z :: BlueLine Studios Utilities#7899
+Content: <@806325293282230305> <@&1527170946459238501>
+Embed 1: Title: Training Ticket || Description: A new **Training ticket** has been opened for <@806325293282230305>. Please explain below with what we can assist you with. || Fields: **User**=> <@806325293282230305> | **Ticket ID**=> 437532 | **Claimed By**=> Unclaimed
+2026-08-05T03:34:17.039Z :: BlueLine Studios Utilities#7899
+Embed 1: Title: Ticket Claimed || Description: <@806325293282230305> will be assisting you today!
+2026-08-05T03:34:19.937Z :: BlueLine Studios Utilities#7899
+Embed 1: Title: Ticket Unclaimed || Description: <@806325293282230305> has unclaimed this ticket.
+2026-08-05T03:34:27.549Z :: cardshark.
+Content: [no text, embeds, or attachments]
+2026-08-05T03:34:28.885Z :: BlueLine Studios Utilities#7899
+Content: **Are you sure you want to close this ticket?** This action cannot be undone.

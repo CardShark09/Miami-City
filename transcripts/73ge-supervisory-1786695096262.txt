@@ -1,0 +1,5 @@
+Los Angeles Utilities: <@463071037953933323> <@&1537251419046805584>
+!107 | CM | Mrkingbossa1516pro: <@463071037953933323> Hello! How can LARP staff help you today.
+Los Angeles Utilities: **Are you sure you want to close this ticket?** This action cannot be undone.
+Los Angeles Utilities: Ticket closure has been cancelled.
+Los Angeles Utilities: <@463071037953933323> has **force-unclaimed** this ticket.

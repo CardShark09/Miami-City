@@ -1,0 +1,7 @@
+2026-07-30T19:00:04.353Z :: BlueLine Studios Utilities#7899 :: <@463071037953933323> <@&1527170946459238501>
+2026-07-30T19:00:20.057Z :: BlueLine Studios Utilities#7899 :: <@463071037953933323> has **force-unclaimed** this ticket.
+2026-07-30T19:01:20.748Z :: cardshark. :: [embed/attachment]
+2026-07-30T19:01:21.915Z :: cardshark. :: [embed/attachment]
+2026-07-30T19:01:29.330Z :: 73ge :: [embed/attachment]
+2026-07-30T19:01:41.378Z :: cardshark. :: [embed/attachment]
+2026-07-30T19:01:46.915Z :: BlueLine Studios Utilities#7899 :: **Are you sure you want to close this ticket?** This action cannot be undone.

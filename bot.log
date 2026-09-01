@@ -1,0 +1,28 @@
+
+> blueline-studios-ticket-bot@1.0.0 dev
+> node --watch src/index.js
+
+Ready! Logged in as BlueLine Studios Utilities#7899
+Loaded 3 tickets from disk
+Restarting 'src/index.js'
+Ready! Logged in as BlueLine Studios Utilities#7899
+Loaded 3 tickets from disk
+Restarting 'src/index.js'
+Ready! Logged in as BlueLine Studios Utilities#7899
+Loaded 3 tickets from disk
+Restarting 'src/index.js'
+Restarting 'src/index.js'
+Ready! Logged in as BlueLine Studios Utilities#7899
+Loaded 3 tickets from disk
+Opening ticket type: report, categoryId: 1527170910300409947
+Opening ticket type: support, categoryId: 1527170910300409947
+Opening ticket type: report, categoryId: 1527170910300409947
+Restarting 'src/index.js'
+Restarting 'src/index.js'
+Ready! Logged in as BlueLine Studios Utilities#7899
+Loaded 3 tickets from disk
+Restarting 'src/index.js'
+Restarting 'src/index.js'
+Ready! Logged in as BlueLine Studios Utilities#7899
+Loaded 3 tickets from disk
+Restarting 'src/index.js'

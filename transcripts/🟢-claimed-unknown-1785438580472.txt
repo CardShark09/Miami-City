@@ -1,0 +1,4 @@
+2026-07-30T19:09:05.482Z :: BlueLine Studios Utilities#7899 :: <@463071037953933323> <@&1527170946459238501>
+2026-07-30T19:09:31.872Z :: BlueLine Studios Utilities#7899 :: **Are you sure you want to close this ticket?** This action cannot be undone.
+2026-07-30T19:09:33.026Z :: 73ge :: [embed/attachment]
+2026-07-30T19:09:33.885Z :: BlueLine Studios Utilities#7899 :: Ticket closure has been cancelled.

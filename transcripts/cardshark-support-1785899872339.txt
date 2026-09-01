@@ -1,0 +1,5 @@
+2026-08-05T02:40:16.212Z :: BlueLine Studios Utilities#7899 :: <@806325293282230305> <@&1527170946459238501>
+2026-08-05T02:40:20.750Z :: BlueLine Studios Utilities#7899 :: [embed/attachment]
+2026-08-05T02:40:27.644Z :: BlueLine Studios Utilities#7899 :: [embed/attachment]
+2026-08-05T02:40:33.321Z :: BlueLine Studios Utilities#7899 :: [embed/attachment]
+2026-08-05T03:17:50.405Z :: BlueLine Studios Utilities#7899 :: **Are you sure you want to close this ticket?** This action cannot be undone.
